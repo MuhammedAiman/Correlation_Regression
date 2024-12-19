@@ -1,4 +1,13 @@
 # Correlation and regression for data analysis
+
+Ex no:3
+
+Date:26/10/2024
+
+Name:**MUHAMMED AIMAN S**
+
+Register:**24901053**
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
